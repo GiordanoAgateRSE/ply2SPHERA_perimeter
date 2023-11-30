@@ -1,0 +1,3 @@
+2 1 1 ! perimeter_first_vertex_ID; perimeter_first_face_ID; perimeter_ID
+0. ! z_offset (to add)
+DEM_Alpe_Gera.ply ! ply_file_name
